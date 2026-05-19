@@ -193,7 +193,7 @@ while True:
             print()
 
     elif option == 4:
-        print("thanks for using Hotel billing Managment system.")
+        print("thanks for using Hotel billings Managment system.")
         break 
     else:
         print("invalid option")
